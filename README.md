@@ -81,9 +81,6 @@ assign f6=a^b;
 assign f7=~(f6);
 endmodule
  ````
-**Logic symbol & Truthtable**
-
-<img width="431" height="826" alt="image" src="https://github.com/user-attachments/assets/6a2c09a3-6eb1-4bc0-b6f2-1b4ffe076dce" />
 
 
 **RTL realization Output:** 
