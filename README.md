@@ -88,13 +88,7 @@ endmodule
 
 **RTL realization Output:** 
 <img width="1228" height="708" alt="image" src="https://github.com/user-attachments/assets/c1fca6ca-7a96-4537-bc0d-2b6cff53614c" />
-
-
 **RTL**
-
 <img width="1919" height="553" alt="image" src="https://github.com/user-attachments/assets/1f42a64a-53fd-4b85-b6e9-f0026b6a2ced" />
-
-
 **Result:**
-
 Thus,The Basic logic gates are studied and Truth tables are studied successully.
